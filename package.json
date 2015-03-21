@@ -1,0 +1,20 @@
+{
+  "name": "bezier-curve",
+  "version": "1.0.0",
+  "description": "Bezier curve interpolation",
+  "author": "thibauts",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/bezier-curve.git"
+  },
+  "keywords": [
+    "bezier",
+    "curve",
+    "interpolation"
+  ]
+}
